@@ -134,6 +134,7 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+twilio.env
 # Environments
 .env
 .envrc
